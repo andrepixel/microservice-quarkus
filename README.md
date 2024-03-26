@@ -22,6 +22,7 @@
 
   O nosso fluxo tem como premissa, puxar todos ticket que estão em uma fila do **SQS(all_tickets)**, fazer pequenas validações, e salvar eles em um banco de dados, que por ter um fluxo gigante de informações foi escolhido o **DynamoDB**. Feito devidas validações iniciais dos **Tickets**, teremos 3 projetos na outra ponta da arquitetura, que são **Workers**, que irão fazer um tratamento especial para cada **Ticket** correspondente para cada cinema, e enviar para outras filas do **SQS**. Essa arquitetura contém 6 projetos; todos eles são microservice. 
   
+  
   > Estamos simulando um fluxo onde temos o **Primeiro Projeto** como um microservice que não temos conhecimento, que é algo normal em uma empresa, não conhecer tudo da arquitetura. Esse **Primeiro Projeto**, é necessário a sua criação para fazer sentido na representação dos outros.
 
 #### Tecnologias usadas
