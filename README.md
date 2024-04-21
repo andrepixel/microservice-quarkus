@@ -3,7 +3,7 @@
 > Esse projeto está em construção.
 
 <p align="center">
-<img src="https://github.com/andrepixel/microservice-quarkus/blob/main/Quarkus-Architecture.png" border="10"/>
+<img src="https://github.com/andrepixel/microservice-quarkus/blob/main/Quarkus-microservice-logo.png" border="10"/>
 </p>
 
 > Esse projeto visa um estudo profundo de Microservice usando Java, Quarkus, Design Patterns, Containers e CI/CD.
@@ -11,7 +11,7 @@
 ### Arquitetura
 
 <p align="center">
-<img src="https://github.com/andrepixel/microservice-quarkus/blob/main/Quarkus_Architecture.jpg" border="10"/>
+<img src="https://github.com/andrepixel/microservice-quarkus/blob/main/Quarkus-Architecture.png" border="10"/>
 </p>
 
 ### Problema
