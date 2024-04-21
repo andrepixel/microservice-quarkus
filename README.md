@@ -11,7 +11,7 @@
 ### Arquitetura
 
 <p align="center">
-<img src="https://github.com/andrepixel/microservice-quarkus/blob/main/Quarkus-Architecture.png" border="10"/>
+<img src="https://github.com/andrepixel/microservice-quarkus/blob/main/Quarkus-Architecture-v1.png" border="10"/>
 </p>
 
 ### Problema
